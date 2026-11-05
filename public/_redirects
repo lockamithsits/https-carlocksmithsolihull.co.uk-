@@ -1,0 +1,5 @@
+# NOTE: Cloudflare Pages _redirects only supports RELATIVE source URLs —
+# hostname-based www -> apex redirects are NOT possible here (wrangler
+# skips absolute-URL rules). To redirect www to apex, use Cloudflare
+# Bulk Redirects at the zone level (recommended), or attach only the apex
+# domain in Pages > Custom domains.

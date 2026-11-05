@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carlocksmithsolihull.co.uk/sitemap.xml
